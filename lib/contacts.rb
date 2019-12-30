@@ -23,3 +23,9 @@
 #     end
 #   end
 # end
+
+def remove_strawberry(contacts)
+  contacts.each do |p, d|
+    binding.pry 
+  end   
+end   
